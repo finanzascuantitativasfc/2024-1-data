@@ -11,9 +11,9 @@ CAC 40 - ^FCHI
 Vix - ^VIX
 
 
-*******
-Sectors
-*******
+***********
+Sector ETFs
+***********
 
 S&P 500 Technology Sector - XLK
 S&P 500 Financial Sector - XLF
