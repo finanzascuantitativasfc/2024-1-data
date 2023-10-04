@@ -36,6 +36,18 @@ S&P 500 - SPY
 IPC - EWW
 
 
+***********
+ETF factors
+***********
+
+IVW - growth
+IVE - value
+QUAL - quality
+USMV - minimum volatility
+MTUM - momentum
+SIZE - size
+
+
 **********
 Technology
 **********
